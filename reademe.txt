@@ -1,0 +1,2 @@
+ini adalah contoh navbar mengunakan tailwind css dan alpin js serta sedikit fanila java script 
+dengan menerapkan opsi dark
